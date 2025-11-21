@@ -38,7 +38,7 @@ These shuttles belong to derotated and likely very outdated maps, not recommende
 {{ self::table(
   title="Derotated",
   maps=["core", "relic"],
-  names=["Cog", "Relic"],
+  names=["Core", "Relic"],
   path=path
 )}}
 These shuttles belong to work-in-progress maps, don't judge them yet :3c
