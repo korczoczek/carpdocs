@@ -1,4 +1,4 @@
-{% import "templates/cargo_shuttles.md" as shuttle %}
+{% import "templates/mapping.md" as map %}
 # Custom Cargo Shuttle
 #### Required
 - Cargo Shuttle Computer
@@ -25,4 +25,4 @@
 
 
 ## Examples
-{{ shuttle::examples(path="cargo/cargo_shuttle") }}
+{{ map::shuttle_examples(path="cargo/cargo_shuttle") }}
